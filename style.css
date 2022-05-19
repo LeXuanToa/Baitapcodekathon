@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+.first-heading {
+    width: 58%;
+    height: auto;
+    margin: auto;
+}
+.first-heading .above img {
+   display: block;
+   margin: auto;
+   margin-top: 30px;
+}
+.first-heading .under {
+    background-color: #774AD8;
+    color: #F8F5F9;
+    margin-top: 30px;
+    width: 100%;
+    padding: 50px 30px;
+    border-radius: 10px;
+    
+}
+.first-heading .under p{
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+.first-heading .under h3{
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+.first-heading .under .child-under .text{
+    color: #c58b0f;
+    background-color:#774AD8 ;
+    border-left:6px solid #F8C929 ;
+    padding: 5px;
+    
+}
+.first-heading .under .child-under .text2{
+    padding:7px 13px ;   
+}
+
+.first-heading .under .child-under2 .text3{
+    color: #c58b0f;
+    background-color:#774AD8 ;
+    border-left:6px solid #F8C929 ;
+    padding: 5px;
+    
+}
+.first-heading .under .child-under2 .text4{
+    padding:7px 13px ;   
+}
+.first-heading .input {  
+    width: 27%;
+    height: 40px;
+    margin-top: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#e7a006 ;
+    border-radius: 10px;
+    
+    padding-top: 10px;
+}
